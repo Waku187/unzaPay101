@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "293048453468",
+    "firebase_url": "https://myfinance187-default-rtdb.firebaseio.com",
+    "project_id": "myfinance187",
+    "storage_bucket": "myfinance187.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293048453468:android:79cf4f4a04e4e8dba0d999",
+        "android_client_info": {
+          "package_name": "com.dayoniyi.peertopeermoneytransferapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293048453468-q3nt3mneilthpp5hiame189cpbb9e99f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqr9o8Odfy3SiJne_JWCKd9Qx6bvi8r9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293048453468-q3nt3mneilthpp5hiame189cpbb9e99f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "293048453468-gnhgkv08tmr7knih0ktc0emebh6behft.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dayoniyi.peertopeermoneytransferapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293048453468:android:927d950951e014dea0d999",
+        "android_client_info": {
+          "package_name": "com.waku.unzapay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293048453468-q3nt3mneilthpp5hiame189cpbb9e99f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqr9o8Odfy3SiJne_JWCKd9Qx6bvi8r9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293048453468-q3nt3mneilthpp5hiame189cpbb9e99f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "293048453468-gnhgkv08tmr7knih0ktc0emebh6behft.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dayoniyi.peertopeermoneytransferapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
