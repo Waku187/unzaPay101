@@ -217,7 +217,9 @@ class AuthService {
   }) async {
     final authProvider = Provider.of<AuthProvider>(context, listen: false);
     try {
+    //  
       showDialogLoader(context);
+
       await FirebaseMessaging.instance.getToken().then((token) {
         authProvider.setDeviceToken(token);
         print("My token is ${authProvider.deviceToken}");
