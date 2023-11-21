@@ -107,6 +107,8 @@ class HomeService {
   }) async {
     final userToken =
         Provider.of<UserProvider>(context, listen: false).user.token;
+    print(".........................................");
+    print(userToken);
     try {
       Transfer transfer = Transfer(
         sendersUsername: sendersUsername,
@@ -119,7 +121,6 @@ class HomeService {
       http.Response res = await http
           .post(
             Uri.parse("$uri/api/transactions/transfer"),
-            
             headers: <String, String>{
               "Content-Type": "application/json; charset=UTF-8",
               'x-auth-token': userToken,
