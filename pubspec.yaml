@@ -34,12 +34,17 @@ dependencies:
   intl: ^0.18.0
   internet_connection_checker: ^1.0.0+1
   firebase_core: ^2.14.0
+  
   firebase_messaging: ^14.6.4
   cloud_firestore: ^4.8.2
  
   socket_io_client: ^2.0.3+1
   awesome_notifications: ^0.6.19
   local_auth: ^2.1.7
+  firebase_storage: ^11.5.2
+  image_picker: ^1.0.4
+  firebase_analytics: ^10.7.1
+  firebase: ^9.0.3
 
 dev_dependencies:
   flutter_test:

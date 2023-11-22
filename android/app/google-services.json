@@ -1,80 +1,26 @@
 {
   "project_info": {
-    "project_number": "293048453468",
-    "firebase_url": "https://myfinance187-default-rtdb.firebaseio.com",
-    "project_id": "myfinance187",
-    "storage_bucket": "myfinance187.appspot.com"
+    "project_number": "233515922564",
+    "project_id": "facerecognition-a1c29",
+    "storage_bucket": "facerecognition-a1c29.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:293048453468:android:79cf4f4a04e4e8dba0d999",
+        "mobilesdk_app_id": "1:233515922564:android:890a0679fb8eb917f0fed1",
         "android_client_info": {
-          "package_name": "com.dayoniyi.peertopeermoneytransferapp"
+          "package_name": "com.unzapay.unzapay"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "293048453468-q3nt3mneilthpp5hiame189cpbb9e99f.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCqr9o8Odfy3SiJne_JWCKd9Qx6bvi8r9U"
+          "current_key": "AIzaSyBbZkaol3uEgueTKx1Hi82eInoXASeptoA"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "293048453468-q3nt3mneilthpp5hiame189cpbb9e99f.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "293048453468-gnhgkv08tmr7knih0ktc0emebh6behft.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.dayoniyi.peertopeermoneytransferapp"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:293048453468:android:927d950951e014dea0d999",
-        "android_client_info": {
-          "package_name": "com.waku.unzapay"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "293048453468-q3nt3mneilthpp5hiame189cpbb9e99f.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyCqr9o8Odfy3SiJne_JWCKd9Qx6bvi8r9U"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "293048453468-q3nt3mneilthpp5hiame189cpbb9e99f.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "293048453468-gnhgkv08tmr7knih0ktc0emebh6behft.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.dayoniyi.peertopeermoneytransferapp"
-              }
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
